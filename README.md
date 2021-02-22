@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on [SWExceprion](https://github.com/SWException)
+🔭 I’m currently working in [SWExceprion](https://github.com/SWException)
 
 📫 How to reach me:
 - Telegram: [@ivanfurlan98](https://t.me/ivanfurlan98)
