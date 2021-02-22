@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🔭 I’m currently working on [SWExceprion](https://github.com/SWException)
+
+📫 How to reach me:
+- Telegram: [@ivanfurlan98](https://t.me/ivanfurlan98)
+- email: ivanfurlan98@gmail.com
 <!--
 **ivanfurlan/ivanfurlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
