@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-🔭 I’m currently working on [SWExceprion](https://github.com/SWException)
+🔭 I’m currently working on [EmporioLambda](https://www.math.unipd.it/~tullio/IS-1/2020/Progetto/C2.pdf) with the group [SWException](https://github.com/SWException)
 
 📫 How to reach me:
 - Telegram: [@ivanfurlan98](https://t.me/ivanfurlan98)
 - Linkedin: [ivanfurlan98](https://www.linkedin.com/in/ivanfurlan98/)
-- Email: ivanfurlan98@gmail.com
+- Email: [ivanfurlan98@gmail.com](mailto:ivanfurlan98@gmail.com)
 <!--
 **ivanfurlan/ivanfurlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
