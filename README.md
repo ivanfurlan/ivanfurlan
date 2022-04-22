@@ -2,7 +2,7 @@
 
 🔭 I’m currently working in [Blue Mobility](https://www.bluemobility.it/)
 
-- I've recently finished the project [EmporioLambda](https://www.math.unipd.it/~tullio/IS-1/2020/Progetto/C2.pdf) with the group [SWException](https://github.com/SWException)
+- I've recently finished the project [EmporioLambda](https://github.com/SWException) ([details](https://www.math.unipd.it/~tullio/IS-1/2020/Progetto/C2.pdf)) with the group [SWException](https://github.com/SWException)
 
 📫 How to reach me:
 - Telegram: [@ivanfurlan98](https://t.me/ivanfurlan98)
